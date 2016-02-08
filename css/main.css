@@ -21,3 +21,8 @@ h2 {
 .beets-nav ol{
   list-style-type: none;
 }
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
