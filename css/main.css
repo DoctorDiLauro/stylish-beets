@@ -8,6 +8,11 @@ html {
   text-decoration: none;
 }
 
+.beets-nav a:hover{
+  color: #39101e;
+  text-decoration: underline;
+}
+
 .beets-nav ol{
   list-style-type: none;
 }
