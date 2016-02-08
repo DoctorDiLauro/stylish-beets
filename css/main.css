@@ -31,3 +31,8 @@ figcaption {
   text-align: center;
   font-style: italic;
 }
+
+main > p:first-child {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
