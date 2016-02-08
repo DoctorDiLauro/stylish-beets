@@ -66,3 +66,8 @@ main ol {
 .serving-size {
   font-style: italic;
 }
+
+dt {
+  font-weight: bold;
+  line-height: 1.5
+}
