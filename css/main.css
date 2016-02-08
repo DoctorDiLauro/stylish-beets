@@ -6,20 +6,22 @@ html {
 h1,
 h2 {
   color: #39101e;
+  font-family: "Patua One", cursive;
 }
 
-.beets-nav a {
+a {
   color: #70343e;
   text-decoration: none;
-  font-size: 1.25rem
+  font-size: 1.25rem;
+  font-family: "Patua One", cursive;
 }
 
-.beets-nav a:hover{
+a:hover {
   color: #39101e;
   text-decoration: underline;
 }
 
-.beets-nav ol{
+.beets-nav ol {
   list-style-type: none;
 }
 
@@ -69,5 +71,10 @@ main ol {
 
 dt {
   font-weight: bold;
-  line-height: 1.5
+  line-height: 1.5;
+}
+
+aside ul {
+  list-style-type: circle;
+  font-size: .75rem;
 }
