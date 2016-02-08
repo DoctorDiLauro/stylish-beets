@@ -1,0 +1,12 @@
+body {
+  background-color: #c9b5ae;
+  font-family: Georgia, serif;
+}
+
+.beets-nav {
+  color: #70343e;
+}
+
+.beets-nav:hover {
+  color: #782b3f;
+}
