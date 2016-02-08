@@ -36,3 +36,12 @@ main > p:first-child {
   font-weight: bold;
   font-size: 1.25rem;
 }
+
+main p b {
+  font-weight: bold;
+}
+
+cite,
+i {
+  font-style: italic;
+}
