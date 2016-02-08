@@ -11,6 +11,7 @@ h2 {
 .beets-nav a {
   color: #70343e;
   text-decoration: none;
+  font-size: 1.25rem
 }
 
 .beets-nav a:hover{
