@@ -23,6 +23,10 @@ h2 {
   list-style-type: none;
 }
 
+img {
+  width: 100%;
+}
+
 figcaption {
   text-align: center;
   font-style: italic;
