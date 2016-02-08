@@ -58,7 +58,11 @@ footer cite {
   font-size: 0.75rem;
 }
 
-main ol{
+main ol {
   list-style-type: lower-greek;
   line-height: 1.5;
+}
+
+.serving-size {
+  font-style: italic;
 }
