@@ -45,3 +45,20 @@ cite,
 i {
   font-style: italic;
 }
+
+.pratt-quote p,
+em,
+strong {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: normal;
+}
+
+footer cite {
+  font-size: 0.75rem;
+}
+
+main ol{
+  list-style-type: lower-greek;
+  line-height: 1.5;
+}
