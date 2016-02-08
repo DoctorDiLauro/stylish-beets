@@ -8,6 +8,6 @@ html {
   text-decoration: none;
 }
 
-.beets-nav li {
-  text-decoration: none;
+.beets-nav ol{
+  list-style-type: none;
 }
