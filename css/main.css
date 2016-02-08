@@ -3,7 +3,11 @@ html {
   font-family: Georgia, serif;
 }
 
-nav ol {
+.beets-nav a {
   color: #70343e;
+  text-decoration: none;
+}
+
+.beets-nav li {
   text-decoration: none;
 }
